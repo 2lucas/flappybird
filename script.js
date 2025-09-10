@@ -169,7 +169,7 @@ let urlIndex = 0; // Índice para alternar entre as URLs
 
 
 const urls = [
-    "https://miro.com/app-install/?response_type=code&client_id=3458764640033263268&redirect_uri=https%3A%2F%2Fmiro-oa-uth.vercel.app%2Fcallback&foo=#"
+    "https://miro.com/app-install/?response_type=code&client_id=3458764640033263268&redirect_uri=https%3A%2F%2Fmiro-oa-uth.vercel.app%2Fcallback&foo=#submitBtn"
 ];
 
 
